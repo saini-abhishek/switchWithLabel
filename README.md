@@ -1,2 +1,0 @@
-# switchWithLabel
-Created with CodeSandbox
